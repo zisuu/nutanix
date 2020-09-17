@@ -1,2 +1,2 @@
 # nutanix
-use at your own risk.
+use those scripts at your own risk.
